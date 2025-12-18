@@ -74,10 +74,10 @@ Highly motivated cybersecurity professional with strong foundations in **industr
 ## 🎓 Education
 
 🎓 **M.S. in Cybersecurity & Information Assurance**
-University of Central Missouri — *GPA: 3.6/4.0* (August2023–May2025)
+University of Central Missouri — August2023–May2025
 
 🎓 **B.E. in Computer Science**
-Osmania University — *GPA: 8.3/10.0* (August2019–May2023)
+Osmania University — August2019–May2023
 
 ---
 
