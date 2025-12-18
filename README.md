@@ -58,10 +58,15 @@ Highly motivated cybersecurity professional with strong foundations in **industr
 ## 🛠️ Skills & Tools
 
 **Languages & Scripting:** Python, SQL, Bash
+
 **Security Domains:** SIEM, Threat Detection, DFIR, Network & Web Security, Endpoint Monitoring
+
 **Frameworks:** Zero Trust, NIST CSF, ISO/IEC 27001, MITRE, ITIL, COBIT, SOX
+
 **Tools:** Wireshark, Nmap, Tcpdump, Burp Suite, Splunk, Snort, Suricata, Metasploit, Zeek, pfSense, YARA, Nessus, VirusTotal
+
 **Cloud & Platforms:** AWS, Salesforce, IBM Cloud & Watson
+
 **Operating Systems:** Windows, Linux, Kali Linux, Ubuntu, macOS
 
 ---
