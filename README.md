@@ -1,7 +1,9 @@
 ## Hi 👋 I'm Akshatha Sai Pasham
 
 🎓 **Cybersecurity & Information Assurance Graduate**
+
 📍 Overland Park, KS, USA
+
 🔐 Passionate about securing systems through **Zero Trust**, **Defense-in-Depth**, and **AI-driven security solutions**
 
 ---
