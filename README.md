@@ -73,10 +73,10 @@ Highly motivated cybersecurity professional with strong foundations in **industr
 
 ## 🎓 Education
 
-🎓 **M.S. in Cybersecurity & Information Assurance**
+ **M.S. in Cybersecurity & Information Assurance**
 University of Central Missouri — August2023–May2025
 
-🎓 **B.E. in Computer Science**
+ **B.E. in Computer Science**
 Osmania University — August2019–May2023
 
 ---
